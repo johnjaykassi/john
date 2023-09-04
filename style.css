@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-items: flex-end;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+nav a{
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-end;
+    
+
+}
+nav a{
+    text-decoration: none;
+}
+
+.box{
+    padding: 200px;
+    background-color: green;
+    margin-bottom: 50px;
+    width: 50%;
+    margin: auto;
+}
